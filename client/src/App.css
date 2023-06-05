@@ -1,0 +1,27 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+.w3-content {
+  max-width: 1600px;
+}
+
+.w3-content #mySidebar {
+  z-index: 3;
+  width: 300px;
+}
+
+.w3-content .w3-main {
+  margin-left: 300px;
+}
+
+.w3-main .project .link {
+  text-decoration: none;
+  color: #0969DA;
+}
